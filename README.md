@@ -5,6 +5,7 @@
   <img src="https://github.com/krishachikka/krishachikka/blob/ced51370ac153dfc60f7ada7cb2dd14c2d7838b0/cat%20(2).jpeg" alt="cat" height="200">
 </div>
 <b>Tech Stack: </b>
+<br>
 <div align="left"> 
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,mysql" height="40" /> 
   <p>Still improving my skills in : </p>
