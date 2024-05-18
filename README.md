@@ -9,7 +9,7 @@
 <b>Tech Stack: </b>
 <br>
 <div align="left"> 
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,mysql" height="40" /> 
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,mysql,flutter" height="40" /> 
   <p>Still improving my skills in : </p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,mysql,git" height="40" />
 </div>
