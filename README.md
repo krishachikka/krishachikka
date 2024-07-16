@@ -1,7 +1,7 @@
 ### Hi there 👋
 <b>everyone's just a silly lil cat coding</b>
 <br>
-<img src="https://github.com/krishachikka/krishachikka/blob/16c21c12609c083ae481ea43113e23baf5093095/assets/meowy.gif" alt="gif" width="90%">
+<img src="https://github.com/krishachikka/krishachikka/blob/16c21c12609c083ae481ea43113e23baf5093095/assets/meowy.gif" alt="gif" width="20%">
 <div align="left">
   <img src="assets/meow.jpeg" alt="Meow" width="150" height="150" padding-right="10">
   <img src="assets/kitty.jpeg" alt="cat" height="150">
