@@ -1,9 +1,9 @@
-# Hi there 👋, I'm Krish!  
+# Hi there 👋, I'm Krisha!  
 <b>Just a silly lil cat coding away 🐱💻</b>  
 <br>
 
 <div align="center">
-  <img src="https://github.com/krishachikka/krishachikka/blob/16c21c12609c083ae481ea43113e23baf5093095/assets/meowy.gif" alt="gif" width="40%">
+  <img src="https://github.com/krishachikka/krishachikka/blob/16c21c12609c083ae481ea43113e23baf5093095/assets/meowy.gif" alt="gif" width="60%">
 </div>
 
 ---
@@ -19,23 +19,13 @@ Here's a quick look at what I love working with:
 
 ### Technologies I've mastered:
 <div align="left"> 
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,mysql,flutter" height="40" />  
+  <img src="https://skillicons.dev/icons?i=react,mongodb,express,nodejs,c,cpp,html,css,tailwind,js,mysql,flutter,git,github,npm" height="40" />  
 </div>
 
 ### Technologies I'm improving:
 <div align="left"> 
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mysql,git,c,cpp" height="40" />
+  <img src="https://skillicons.dev/icons?i=threejs,blender,aws,typescript,py" height="40" />
 </div>
-
-### Full Stack Development:
-
-- **Frontend**: React.js, TailwindCSS, HTML, CSS  
-- **Backend**: Node.js, Express.js, MongoDB  
-- **Databases**: MySQL, MongoDB  
-- **Languages**: C, C++, JavaScript, TypeScript  
-- **Version Control**: Git, GitHub  
-
----
 
 ## Fun Fact About Me 🎉
 
