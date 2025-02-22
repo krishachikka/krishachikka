@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm a passionate developer who loves coding and working with cool technologies! When I'm not solving coding problems, you can find me hanging out with my kitty friends 🐾.
+I'm a passionate developer who loves coding and working with cool technologies! When I'm not solving coding problems, you can find me hanging out with cats lol 🐾.
 
 ---
 
